@@ -1,0 +1,10 @@
+include ':room'
+include ':kotlinknowledge'
+include ':hiltdemo'
+include ':app'
+rootProject.name = "MineDemo"
+include ':workmanager'
+include ':aspectjdemo'
+include ':aspectjlibrary'
+include ':download'
+include ':draw'
